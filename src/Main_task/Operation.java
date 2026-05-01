@@ -1,4 +1,4 @@
-package ChatGBT_Tasks;
+package Main_task;
 
 public enum Operation {
     ADD {
