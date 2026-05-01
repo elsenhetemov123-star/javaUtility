@@ -7,7 +7,7 @@ public class Main {
         int result = op.apply(5,6);
         System.out.println(result);
         Operation op1 = Operation.DIVIDE;
-        int result1 = op1.apply(5,2);
+        int result1 = op1.apply(5,2cd);
         System.out.println(result1);
     }
 }
